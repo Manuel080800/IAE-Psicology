@@ -1,11 +1,11 @@
 Question,Status
 1,In use
-2,In use
+2,Delete
 3,Delete
 4,Delete
 5,Delete
 6,In use
-7,In use
+7,Delete
 8,In use
 9,Delete
 10,In use
@@ -16,8 +16,8 @@ Question,Status
 15,Delete
 16,In use
 17,In use
-18,In use
-19,In use
+18,Delete
+19,Delete
 20,In use
 21,Delete
 22,In use
@@ -31,16 +31,16 @@ Question,Status
 30,Delete
 31,In use
 32,Delete
-33,In use
+33,Delete
 34,In use
 35,In use
-36,In use
+36,Delete
 37,In use
 38,Delete
 39,In use
 40,In use
-41,In use
-42,In use
+41,Delete
+42,Delete
 43,In use
 44,Delete
 45,Delete
@@ -48,7 +48,7 @@ Question,Status
 47,In use
 48,Delete
 49,Delete
-50,In use
+50,Delete
 51,Delete
 52,In use
 53,In use
@@ -75,7 +75,7 @@ Question,Status
 74,In use
 75,Delete
 76,In use
-77,In use
+77,Delete
 78,Delete
 79,In use
 80,In use
@@ -86,12 +86,12 @@ Question,Status
 85,Delete
 86,Delete
 87,Delete
-88,In use
+88,Delete
 89,Delete
 90,Delete
 91,Delete
 92,In use
-93,In use
+93,Delete
 94,Delete
 95,Delete
 96,Delete
